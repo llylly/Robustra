@@ -11,7 +11,7 @@ Built based on Wong and Zico's dual LP training framework, we do several major e
 Code cleaning and detail documentation is in progress.
 
 ------
-Below is original README.md from Wrong and Zico.
+Below is original README.md from Wong and Zico.
 
 # Provably robust neural networks
 
