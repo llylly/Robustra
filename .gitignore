@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+*.log
+!models/*.pth
+!models_scaled/*.pth
+data/
+.idea/
+report/
+checkpoints/
+motivation/weights
+proj_cmd.txt
+report.zip
+test_cmd.txt
